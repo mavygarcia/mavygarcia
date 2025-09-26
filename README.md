@@ -1,9 +1,28 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=530&lines=print%28%22Hello%2C+I%27m+Mavy%21%22%29" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=530&lines=System.out.println%28%22Hello%2C+I%27m+Mavy%21%22%29" alt="Typing SVG" />
   </a>
   <br>
 </div>
+
+```java
+public class Mavy {
+
+  
+    private static final String COURSE = "Analysis and Systems Development - FATEC";
+    private static final String POSITION = "DBA MySQL Trainee";
+    
+   
+    private static final String GOALS = 
+        "Deepen and expand my knowledge in programming, development, and database administration.";
+
+    public static void main(String[] args) {
+        System.out.println("Student: " + COURSE);
+        System.out.println("Trainee: " + POSITION);
+        System.out.println("Goal: " + GOALS);
+    }
+}
+```
 
 <div align="center">
   <h3>Mavy's GitHub Stats 🌷</h3>
